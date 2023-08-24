@@ -19,6 +19,8 @@ this is imgs for razed crypto mining scripts
 
 	["3060gpu"] 				    = {["name"] = "3060gpu", 			 	  	["label"] = "RTX 3060",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "3060.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "IDK Man! It's so expensive."},
 
-	["4090gpu"] 				    = {["name"] = "4090gpu", 			 	  	["label"] = "RTX 4090",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "3060.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Is it just me or this looks kinda thicc?"},
+	["4090gpu"] 				    = {["name"] = "4090gpu", 			 	  	["label"] = "RTX 4090",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "4090.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Is it just me or this looks kinda thicc?"},
+
+["thermalpast"] 				    = {["name"] = "thermalpast", 			 	  	["label"] = "Thermal past",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "thermalpast.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "A thermalpast To keep your cpu chiling."},
 
 ```
