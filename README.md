@@ -1,7 +1,7 @@
 # razed-crypto-imgs
 imgs for razed crypto mining script
 
-[razed-cryptomining](https://github.com/planeklm/razed-cryptomining)\
+[razed-cryptomining script](https://github.com/planeklm/razed-cryptomining)
 ------------------
 
 
@@ -21,7 +21,7 @@ imgs for razed crypto mining script
 
 	["4090gpu"] 				    = {["name"] = "4090gpu", 			 	  	["label"] = "RTX 4090",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "4090.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Is it just me or this looks kinda thicc?"},
 
-	["thermalpast"] 				    = {["name"] = "thermalpast", 			 	  	["label"] = "Thermal past",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "thermalpast.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "A thermalpast To keep your cpu chiling."},
+	["thermalpast"] 				    = {["name"] = "thermalpast", 			 	  	["label"] = "Thermal past",            ["weight"] = 0, 		["type"] = "item", 		["image"] = "thermalpast.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "A thermalpast To keep your cpu chilling."},
 
 ```
 
