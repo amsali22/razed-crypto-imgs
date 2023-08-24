@@ -1,7 +1,7 @@
 # razed-crypto-imgs
-imgs for razed crypto mining scripts
+imgs for razed crypto mining script
 
-
+(https://github.com/planeklm/razed-cryptomining/)
 ------------------
 
 
